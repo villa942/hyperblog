@@ -1,6 +1,6 @@
 body
 {
-    color: blue;
+    color: black;
     text-align: center;
     font-family: arial;
     font-size: 16px;
@@ -29,7 +29,12 @@ body
     font-weight: bold;
 
 }
+#cabecera #logo{
+    width: 50px;
+    vertical-align: middle;
+}
 #post{
+    background: white ;
     padding: 1em;
 }
 #cabecera #tagline{
