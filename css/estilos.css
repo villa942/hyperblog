@@ -21,6 +21,10 @@ body
 #container h1{
     font-size: 20px;
 }
+#container #imagen{
+    width: 800px;
+    vertical-align: center;
+}
 #cabecera{
     background: blue;
     color: azure;
