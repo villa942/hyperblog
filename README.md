@@ -7,3 +7,4 @@ En este curso se ve de todo
 - buenas practicas
 - creditos
 - windows linux y mac
+- disponible
