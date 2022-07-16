@@ -5,3 +5,4 @@ Un blog increible
 
 En este curso se ve de todo 
 - buenas practicas
+- creditos
